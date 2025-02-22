@@ -1,0 +1,85 @@
+body {
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #271f23;
+    font-family: Helvetica Neue, Regular;
+    font-size: 16px;
+    hyphens: auto;
+    margin-top: 2em;
+    margin-right: auto;
+    margin-bottom: 2em;
+    margin-left: auto;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    line-height: 1.4;
+    max-width: 800px;
+
+}
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+a:link {
+  color: #07a;
+  background-color: transparent;
+  text-decoration: none;
+  border-bottom: #07a 0.09em solid;
+
+}
+a:visited {
+  color:  #941352;
+  background-color: transparent;
+  text-decoration: none;
+  border-bottom: #941352 0.09em solid;
+}
+a:hover {
+  color:  #941352;
+  background-color: transparent;
+  text-decoration: none;
+  border-bottom: #941352 0.2em solid;
+}
+
+hr {
+  height: 3px;
+  border: 0;
+  background: #1e1e2e;
+  opacity: .2;
+  margin: 1.2em 0;
+}
+.darkMode img {
+margin-right: 1.2em;
+
+}
+
+.squiggle {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+.monospace {
+
+font-family: Andale Mono, Regular;
+
+}
+
+
+.header {
+  padding: 0.5px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.caption {
+  color: grey;
+  font-size: 12px;
+}
+.imgcaption {
+    color: grey;
+    font-size: 12px;
+    text-align: justify;
+    width: 572;
+}

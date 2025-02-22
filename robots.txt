@@ -1,0 +1,4 @@
+# Gort! Klaatu barada nikto!
+User-agent: *
+Disallow:
+
